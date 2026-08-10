@@ -1,6 +1,9 @@
 {
     "zigRuntime": {
-        "rate": 100
+        "rate": 100,
+        "data": {
+            "bogus": "foobar"
+        }
     },
     "neSafeValueObserver": {
         "rate": 100
