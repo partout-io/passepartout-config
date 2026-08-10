@@ -1,6 +1,9 @@
 {
     "zigRuntime": {
-        "rate": 100
+        "rate": 100,
+        "data": {
+            "bogus": "foobar"
+        }
     },
     "neSafeValueObserver": {
         "rate": 100
@@ -10,7 +13,7 @@
         "minBuild": 4040
     },
     "ovpnV3": {
-        "rate": 0,
+        "rate": 100,
         "minBuild": 4082
     },
     "wgCrossV2": {
