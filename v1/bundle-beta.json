@@ -1,9 +1,12 @@
 {
+    "zigOpenVPN": {
+        "rate": 100
+    },
+    "zigWireGuard": {
+        "rate": 100
+    },
     "zigRuntime": {
-        "rate": 100,
-        "data": {
-            "bogus": "foobar"
-        }
+        "rate": 100
     },
     "neSafeValueObserver": {
         "rate": 100
