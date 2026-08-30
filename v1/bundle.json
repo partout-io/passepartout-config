@@ -1,4 +1,16 @@
 {
+    "zigWireGuard": {
+        "rate": 0,
+        "minBuild": 4138
+    },
+    "zigOpenVPN": {
+        "rate": 100,
+        "minBuild": 4138
+    },
+    "zigRuntime": {
+        "rate": 100,
+        "minBuild": 4138
+    },
     "neSafeValueObserver": {
         "rate": 100
     },
