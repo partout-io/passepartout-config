@@ -1,4 +1,13 @@
 {
+    "zigCodingImport": {
+        "rate": 100
+    },
+    "zigCodingExport": {
+        "rate": 100
+    },
+    "enforceZig": {
+        "rate": 100
+    },
     "zigOpenVPN": {
         "rate": 100
     },
