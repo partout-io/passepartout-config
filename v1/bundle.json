@@ -1,9 +1,9 @@
 {
     "zigCodingImport": {
-        "rate": 100
+        "rate": 0
     },
     "zigCodingExport": {
-        "rate": 100
+        "rate": 0
     },
     "enforceZig": {
         "rate": 100,
