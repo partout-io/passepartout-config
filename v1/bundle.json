@@ -1,13 +1,15 @@
 {
     "zigCodingImport": {
-        "rate": 0
+        "rate": 100,
+        "minBuild": 4153
     },
     "zigCodingExport": {
-        "rate": 0
+        "rate": 100,
+        "minBuild": 4153
     },
     "enforceZig": {
         "rate": 100,
-        "minBuild": 4150
+        "minBuild": 4153
     },
     "zigWireGuard": {
         "rate": 100,
