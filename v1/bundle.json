@@ -8,7 +8,7 @@
         "minBuild": 4153
     },
     "enforceZig": {
-        "rate": 100,
+        "rate": 0,
         "minBuild": 4153
     },
     "zigWireGuard": {
