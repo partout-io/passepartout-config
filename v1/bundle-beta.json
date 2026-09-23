@@ -1,4 +1,7 @@
 {
+    "daemonLooperV2": {
+        "rate": 100
+    },
     "zigCodingImport": {
         "rate": 100
     },
