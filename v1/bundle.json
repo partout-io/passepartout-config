@@ -1,4 +1,8 @@
 {
+    "daemonLooperV2": {
+        "rate": 100,
+        "minBuild": 4160
+    },
     "zigCodingImport": {
         "rate": 100,
         "minBuild": 4153
