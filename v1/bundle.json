@@ -1,4 +1,16 @@
 {
+    "experimentalDaemonWireGuard_202610": {
+        "rate": 100,
+        "minBuild": 4167
+    },
+    "experimentalDaemonOpenVPN_202610": {
+        "rate": 100,
+        "minBuild": 4167
+    },
+    "experimentalDaemon_202610": {
+        "rate": 100,
+        "minBuild": 4167
+    },
     "daemonLooperV2": {
         "rate": 100,
         "minBuild": 4160
